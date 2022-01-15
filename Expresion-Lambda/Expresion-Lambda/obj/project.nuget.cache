@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KmVPlM0veGa+NpiUWpElkxy2oBJakM5fwObz0WaID1n+4BKOjOZszOAFXDxn2+25wxie5wiIn3F/1myyfJlZ/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\source\\repos\\Expresion-Lambda\\Expresion-Lambda\\Expresion-Lambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

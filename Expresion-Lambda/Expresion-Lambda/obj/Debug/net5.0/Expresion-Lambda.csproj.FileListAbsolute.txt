@@ -1,0 +1,16 @@
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.AssemblyInfo.cs
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\bin\Debug\net5.0\Expresion-Lambda.exe
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\bin\Debug\net5.0\Expresion-Lambda.deps.json
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\bin\Debug\net5.0\Expresion-Lambda.runtimeconfig.json
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\bin\Debug\net5.0\Expresion-Lambda.runtimeconfig.dev.json
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\bin\Debug\net5.0\Expresion-Lambda.dll
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\bin\Debug\net5.0\ref\Expresion-Lambda.dll
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\bin\Debug\net5.0\Expresion-Lambda.pdb
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.dll
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\ref\Expresion-Lambda.dll
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.pdb
+C:\Users\fabia\source\repos\Expresion-Lambda\Expresion-Lambda\obj\Debug\net5.0\Expresion-Lambda.genruntimeconfig.cache
